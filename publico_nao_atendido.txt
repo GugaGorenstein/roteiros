@@ -1,0 +1,192 @@
+
+- CETELEM
+  - INSS
+    - Pensão alimentícia,
+    - representante legal (Ex. dependente, tutelado ou curatelado)
+    - Previdência complementar (Ex. Correios, Banco do Brasil, Petrobras).
+    - Não atende beneficiários da Espécie 32 que tenham idade inferior a 60 anos.
+
+  - SIAPE
+    - Pensionistas temporários do sexo masculino;
+    - Pensionista temporária do sexo feminino, menor de 29 (vinte e nove) anos ou com menos de 05 (cinco) anos de recebimento do benefício;
+    - CLT;
+    - Anistiados;
+    - Estagiários;
+    - Excedente a lotação / MRE(Ministério das Relações Exteriores);
+    - QE / MRE;
+    - Sem vínculo;
+    - Nomeado a cargo de confiança;
+    - Empregado público;
+    - Comissionados, inclusive os identificados no contracheque com vínculo de CLT (desconto INSS);
+    - Beneficiários de pensão alimentícia;
+    - Requisitados, tutores e procuradores;
+    - Servidores do Legislativo e do Judiciário;
+    - Contratados (prestador de serviço);
+    - Exerc Descent carreira;
+    - Quadro Especial (Situação: 97 e 98 – exonerados no Governo Fernando Collor e reintegrados por força de liminar, porém com o processo ainda em julgamento na Justiça);
+
+- ITAÚ
+  - INSS
+    - INSS - atende espécies já conhecidas, exceto 54.
+    - não atende benefícios nas UFs PI e MA
+    - não atende:
+      - pensão alimentícia
+      - benefícios assistenciais, inclusive leis especiais
+      - representante legal
+      - regras de acordos internacionais para segurados residentes no exterior
+      - pagos por meio da ECT
+      - pagos por intermédio de empresa de Previdência Complementar
+      - pagos por intermédio de cooperativas de crédito que não possuam contratos para pagamento  e arrecadação de benefícios
+
+  - SIAPE
+      - Comando da Aeronáutica;
+      - Comando da Marinha;
+      - contratado;
+      - contrato temporário;
+      - Excedente a lotação/MRE;
+      - Quadro Especial (QE.- QE/MRE);
+      - Sem vinculo;
+      - requisitado;
+      - nomeado a CC;
+      - Comissionado;
+      - Excedente a Lot./MRE;
+      - Exercício Descent. Carreira e Emprego público;
+      - Quadro Especial (Situação 97 e 98);
+      - celetista de órgãos federais;
+      - pensionistas temporários;
+      - servidores civis vinculados ao Governo do Distrito Federal;
+      - Anistiados Políticos;
+      - CLT-ANS-DEC – 6657/08;
+      - Univ. Federal do Mato Grosso do Sul;
+      - Comissão de Valores (CVM);
+      - Departamento Nacional de Obras Contra as Secas e Incra (Instituto Nacional de Colonização e Reforma Agrária);
+      - Universidade Federal do Rio de Janeiro 164-44 temporariamente suspenso;
+
+- PAN
+  - INSS
+    - Pensionista que recebe pensão alimentícia através do “Comprovante de Pagamento;
+    - Concedidos nas regras de acordos internacionais para segurados residentes no exterior;
+    - Assistenciais, inclusive os decorrentes de leis especiais;
+    - Representante legal do segurado: dependente, tutelado ou curatelado;
+    - Pagos por intermédio da Empresa Brasileira de Correios e Telégrafos – ECT
+      - observar se consta a expressão ECT no campo Banco do Extrato de pagamentos de benefício);
+    - Empresa conveniada
+      - observar se consta a expressão Empresa Conveniada no campo Banco do Extrato de pagamentos de benefício;
+    - Cooperativas de créditos que não possuam contratos para pagamento e arrecadação de benefícios.
+
+  - SIAPE
+    - situação funcional
+      3 - Requisitado
+      4 - Cargo comissionado
+      5 - Sem vínculo
+      6 - Tabelista (Esp/Emerg)
+      7 - Natureza especial
+      10 - Ativo Transitório
+      12 - Contrato temporário
+      13 - Em disponibilidade
+      14 - Requisitados de outros órgãos
+      16 - Req. Militar
+      18 - Exerc Descent Carrei
+      19 - Exercício Provisório
+      20 - CLT
+      23 - CLT / Empregado
+      29 - CLT - Após complemento
+      30 - CLT - Aps decisão judicial
+      31 - Inst OS Decisão Judicial
+      32 - Emprego público
+      35 - Requisitado Militar
+      38 - Ativo - Decisão Judicial
+      39 - Aposentado - Decisão Judicial
+      40 - Contrato temporário
+      41 - Colaborador PCCTAE
+      42 - Colaborador ICT
+      44 - Exec 7o art 93 8112
+      46 - Inst Anist. Público
+      47 - Inst Anist. Privado
+      48 - Decisão judicial
+      51 - Exc. Indisciplina
+      52 - Cont. Prof. Substituto
+      66 - Estagiário
+      96 - QE/MRE - Cedido
+      97 - Quadro especial - QE/ME
+      98 - Excedente a Lot/MRE
+
+
+- SAFRA
+
+  - INSS
+    - Proibido qualquer operação por procuração pública ou particular.
+    - Pagos a título de pensão alimentícia;
+    - Pagos por intermédio de empresas convenientes;
+    - Assistenciais, inclusive aqueles decorrentes de leis especiais;
+    - Recebidos por meio de representante legal do segurado (dependente tutelado ou curatelado);
+    - Óbito, decisão judicial, concessão de pensão alimentícia pode ocasionar perda total ou parcial da renda do benefício;
+    - Benefícios provisionados não autorizados pela DATAPREV à consignação;
+    - Pagos por intermédio da Empresa Brasileira de Correios e Telégrafos (ECT).
+    - Conforme instrução e responsabilidade demonstrada na cartilha do CORBAN, será identificado como operações inadequadas, conforme política SAFRA, as operações para os beneficiários abaixo:
+    - Não operamos com Tribos indígenas
+    - com renda < R$ 600
+      - Deficiente visual
+      - Titulares que não sacaram seus benefícios nos últimos meses
+        - conforme identificado no extrato de pagamento;
+
+- BANRISUL
+
+  - SIAPE
+    - Celetista (CLT);
+    - Contratados;
+    - Comissionados;
+    - Contrato Temporário;
+    - Emprego Público;
+    - Quadro Especial QE/MRE;
+    - Requisitado e Sem Vínculo;
+    - empréstimos para ativos, inativos ou pensionistas na condição de Tutor ou Curador;
+    - servidores na condição de Cedido fora da sua UF;
+
+- BRADESCO
+
+  - SIAPE
+      - Pensionistas temporários (masculino);
+      - Regime CLT;
+      - Contratado;
+      - Contrato Temporário;
+      - Emprego Público;
+      - Nomeado a Cargo Comissionado;
+      - Excedente a lotação/MRE;
+      - Quadro Especial (Q.E.- QE/MRE);
+      - Sem vínculo;
+      - Requisitado;
+      - Comissionado;
+      - Servidores do Poder Legislativo ou Judiciário;
+      - Pensão Alimentícia;
+      - inadimplentes com o banco;
+
+OLÉ
+  - SIAPE
+      - Servidores efetivos com cargo em comissão
+      - comissionados
+      - celetistas
+      - contratados
+      - contratados temporários
+      - sem vínculo
+      - requisitado
+      - excedente a LOT/MRE
+      - pensão
+      - temporária (Sexo masculino)
+      - nomeado a cargo de confiança
+      - Quadro Especial situação 97 e 98
+      - FUNASA - Fundação Nacional de Saúde,
+      - FUNALFA - Fundação Cultural Alfredo Ferreira Lage,
+      - FUNAI - Fundação Nacional do Índio ,
+      - EMBRAPA - Empresa Brasileira de Pesquisa Agropecuária,
+      - SERPRO - Serviço Federal de Processamento,
+      - CONAB – Companhia Nacional de Abastecimento,
+      - INSTITUTO NACIONAL DE SEGURO SOCIAL,
+      - Governo do Ex. Território de Roraima,
+      - Governo do Ex. Território de Rondônia,
+      - Antigos Est Guanabara e Distrito Federal,
+      - Universidade Federal do Pará,
+      - Universidade Federal do Mato Grosso
+      - Universidade Federal do Espírito Santo
+
+
