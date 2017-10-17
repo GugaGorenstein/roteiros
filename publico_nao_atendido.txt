@@ -43,6 +43,7 @@
       - Comando da Marinha;
       - CLT;
       - CLT temporário;
+      
       - Excedente a lotação/MRE;
       - Quadro Especial (QE.- QE/MRE);
       - Sem vinculo;
