@@ -36,13 +36,13 @@
       - regras de acordos internacionais para segurados residentes no exterior
       - pagos por meio da ECT
       - pagos por intermédio de empresa de Previdência Complementar
-      - pagos por intermédio de cooperativas de crédito que não possuam contratos para pagamento  e arrecadação de benefícios
+      - pagos por intermédio de cooperativas de crédito que não possuam contratos para pagamento e arrecadação de benefícios
 
   - SIAPE
       - Comando da Aeronáutica;
       - Comando da Marinha;
-      - contratado;
-      - contrato temporário;
+      - CLT;
+      - CLT temporário;
       - Excedente a lotação/MRE;
       - Quadro Especial (QE.- QE/MRE);
       - Sem vinculo;
@@ -89,7 +89,7 @@
       18 - Exerc Descent Carrei
       19 - Exercício Provisório
       20 - CLT
-      23 - CLT / Empregado
+      23 - CLT / Contratado
       29 - CLT - Após complemento
       30 - CLT - Aps decisão judicial
       31 - Inst OS Decisão Judicial
@@ -133,7 +133,7 @@
 - BANRISUL
 
   - SIAPE
-    - Celetista (CLT);
+    - CLT;
     - Contratados;
     - Comissionados;
     - Contrato Temporário;
@@ -165,7 +165,7 @@ OLÉ
   - SIAPE
       - Servidores efetivos com cargo em comissão
       - comissionados
-      - celetistas
+      - CLT
       - contratados
       - contratados temporários
       - sem vínculo
@@ -188,5 +188,3 @@ OLÉ
       - Universidade Federal do Pará,
       - Universidade Federal do Mato Grosso
       - Universidade Federal do Espírito Santo
-
-
